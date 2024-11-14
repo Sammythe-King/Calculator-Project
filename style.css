@@ -52,3 +52,7 @@ body {
 .operator {
   color: #2f9fff;
 }
+.btnc:hover{
+  background-color: black;
+  color: white;
+}
